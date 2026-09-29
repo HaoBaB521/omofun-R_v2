@@ -1,4 +1,3 @@
-[README.md（动图渲染修复版）.md](https://github.com/user-attachments/files/32824137/README.md.md)
 <div align="center">
 
 # ✦ omofun-R_v2 ✦
