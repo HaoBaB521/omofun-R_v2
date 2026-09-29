@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/32822177/README.md.md)
+
 <div align="center">
 
 # ✦ omofun-R_v2 ✦
