@@ -28,11 +28,13 @@
 
 **▶️ 下载演示**（多任务并发 + 实时进度）
 
-<img src="docs/screenshots/download-demo.gif" width="360" alt="下载演示动图">
+<img src="docs/screenshots/download-demo.gif" width="360" alt="<img width="480" height="320" alt="download-demo" src="https://github.com/user-attachments/assets/89f50d26-0fc5-43f3-8397-f0c9b2ab6ac9" />
+">
 
 **⚙️ 设置演示**（中文界面 + 窗口比例调节）
 
-<img src="docs/screenshots/settings-demo.gif" width="360" alt="设置演示动图">
+<img src="docs/screenshots/settings-demo.gif" width="360" alt="![Uploading settings-demo.gif…]()
+">
 
 > 📌 上面 2 张为动图占位：把录屏 GIF 放到 `docs/screenshots/` 并保持文件名即可显示。
 
