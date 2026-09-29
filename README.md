@@ -1,4 +1,4 @@
-[README.md（含动图引用）.md](https://github.com/user-attachments/files/32822177/README.md.md)
+(https://github.com/user-attachments/files/32822177/README.md.md)
 <div align="center">
 
 # ✦ omofun-R_v2 ✦
