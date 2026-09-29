@@ -1,4 +1,4 @@
-[README.md（动图渲染修复版）.md](https://github.com/user-attachments/files/32823114/README.md.md)
+[README.md（动图渲染修复版）.md](https://github.com/user-attachments/files/32824137/README.md.md)
 <div align="center">
 
 # ✦ omofun-R_v2 ✦
@@ -25,12 +25,12 @@
 
 **▶️ 下载演示**（多任务并发 + 实时进度）
 
-![下载演示动图](docs/screenshots/<img width="480" height="320" alt="download-demo" src="https://github.com/user-attachments/assets/824bcc4d-f225-45f2-8886-7e7022312535" />
+![下载演示动图](docs/screenshots/download-demo.gif<img width="480" height="320" alt="download-demo" src="https://github.com/user-attachments/assets/8960288f-10f4-4c08-8d8e-e316af871957" />
 )
 
 **⚙️ 设置演示**（中文界面 + 窗口比例调节）
 
-![设置演示动图](docs/screenshots/![Uploading settings-demo.gif…]()
+![设置演示动图](docs/screenshots/settings-demo.gif![Uploading settings-demo.gif…]()
 )
 
 ✦ ──────────────── 🚀 变更摘要 ──────────────── ✦
